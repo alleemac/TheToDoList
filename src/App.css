@@ -168,4 +168,8 @@ select {
   .todo-list {
   padding-left: 0px;
 }
+  h1 {
+  padding: 5%;
+  font-size: 3rem;
+}
 }
