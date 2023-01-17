@@ -172,7 +172,11 @@ select {
   padding: 5%;
   font-size: 3rem;
 }
-  .todo li {
-    padding:2%;
+.todo li {
+ font-size: 1rem;
+ overflow: hidden;
+ white-space: wrap;
+ max-width: 70%;
+ text-overflow: ellipsis;
 }
 }
