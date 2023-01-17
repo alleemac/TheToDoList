@@ -153,6 +153,7 @@ select {
 @media screen and (max-width: 500px) {
   .todo-input {
     max-width: 75%;
+    border-radius: 0%;
   }
   .filter-todo {
     padding: .5rem;
@@ -163,5 +164,8 @@ select {
 /* Arrow */
 .select::after {
   padding: .5rem;
+}
+  .todo-list {
+  padding-left: 0px;
 }
 }
