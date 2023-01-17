@@ -173,7 +173,6 @@ select {
   font-size: 3rem;
 }
   .todo li {
-    word-break: break-word;
     padding:2%;
 }
 }
