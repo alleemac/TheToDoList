@@ -172,4 +172,8 @@ select {
   padding: 5%;
   font-size: 3rem;
 }
+  .todo li {
+    word-break: break-word;
+    padding:2%;
+}
 }
