@@ -179,4 +179,7 @@ select {
  max-width: 70%;
  text-overflow: ellipsis;
 }
+  .completed {
+  text-decoration: line-through 3px;
+}
 }
