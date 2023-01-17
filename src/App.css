@@ -152,8 +152,6 @@ select {
 
 @media screen and (max-width: 500px) {
   .todo-input {
-    margin-right: 0;
-    margin-left: 5%;
     max-width: 75%;
   }
   .filter-todo {
